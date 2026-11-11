@@ -1,7 +1,8 @@
 # Triptease
 
-Connects your agent to the Triptease MCP at `https://mcp.triptease.io/mcp`. It gives the agent the
-tools from every Triptease product you have access to, behind one sign-in.
+Connects your agent to the Triptease MCP at `https://mcp.triptease.io/mcp`. It gives the agent
+Triptease's reporting tools, so it can generate reports from your Triptease data and use that data
+in your workflows.
 
 The first time the server is used, you are asked to sign in with your Triptease account. In
 Claude Code, run `/mcp` to sign in or check the connection.
