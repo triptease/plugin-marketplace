@@ -6,5 +6,6 @@
     "name": "Triptease"
   },
   "homepage": "https://www.triptease.com",
-  "keywords": ["triptease", "hotels", "mcp"]
+  "keywords": ["triptease", "hotels", "mcp"],
+  "icon": "./assets/icon.png"
 }

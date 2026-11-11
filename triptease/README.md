@@ -14,3 +14,4 @@ Claude Code, run `/mcp` to sign in or check the connection.
 | `.mcp.json`                  | Claude  | Adds the Triptease MCP server |
 | `plugin.json`                | OpenAI  | Plugin manifest               |
 | `mcp.json`                   | OpenAI  | Adds the Triptease MCP server |
+| `assets/icon.png`            | Both    | Plugin icon                   |

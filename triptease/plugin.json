@@ -15,7 +15,9 @@
         "shortDescription": "Use your Triptease products from ChatGPT and Codex.",
         "developerName": "Triptease",
         "category": "Productivity",
-        "websiteURL": "https://www.triptease.com"
+        "websiteURL": "https://www.triptease.com",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/icon.png"
       }
     }
   }
