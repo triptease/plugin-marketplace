@@ -1,0 +1,10 @@
+{
+  "name": "triptease",
+  "version": "0.1.0",
+  "description": "Connects Claude to the Triptease MCP, giving it access to tools from every Triptease product you use.",
+  "author": {
+    "name": "Triptease"
+  },
+  "homepage": "https://www.triptease.com",
+  "keywords": ["triptease", "hotels", "mcp"]
+}

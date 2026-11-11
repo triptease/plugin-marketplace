@@ -1,0 +1,16 @@
+{
+  "name": "triptease",
+  "owner": {
+    "name": "Triptease"
+  },
+  "metadata": {
+    "description": "Official Claude plugins from Triptease."
+  },
+  "plugins": [
+    {
+      "name": "triptease",
+      "source": "./triptease",
+      "description": "Connects Claude to the Triptease MCP, giving it access to tools from every Triptease product you use."
+    }
+  ]
+}

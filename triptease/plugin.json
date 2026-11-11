@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "triptease",
+  "version": "0.1.0",
+  "description": "Connects your agent to the Triptease MCP, giving it access to tools from every Triptease product you use.",
+  "author": {
+    "name": "Triptease"
+  },
+  "homepage": "https://www.triptease.com",
+  "keywords": ["triptease", "hotels", "mcp"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Triptease",
+        "shortDescription": "Use your Triptease products from ChatGPT and Codex.",
+        "developerName": "Triptease",
+        "category": "Productivity",
+        "websiteURL": "https://www.triptease.com"
+      }
+    }
+  }
+}

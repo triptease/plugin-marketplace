@@ -1,0 +1,20 @@
+{
+  "name": "triptease",
+  "interface": {
+    "displayName": "Triptease"
+  },
+  "plugins": [
+    {
+      "name": "triptease",
+      "source": {
+        "source": "local",
+        "path": "./triptease"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
