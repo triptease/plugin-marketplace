@@ -1,4 +1,8 @@
-# Triptease agent plugins
+<p align="center">
+  <img src="triptease/assets/icon.png" alt="Triptease logo" width="128" height="128">
+</p>
+
+<h1 align="center">Triptease agent plugins</h1>
 
 The public plugin marketplace from Triptease. It works with Claude (Claude Code) and with
 OpenAI (ChatGPT and Codex).
