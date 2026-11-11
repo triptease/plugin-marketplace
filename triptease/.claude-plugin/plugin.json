@@ -1,6 +1,6 @@
 {
   "name": "triptease",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Connects Claude to the Triptease MCP, so it can generate reports from your Triptease data and use that data in your workflows.",
   "author": {
     "name": "Triptease"
